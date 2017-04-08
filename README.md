@@ -1,2 +1,1 @@
-# Conky
-# Conky
+# Conky.conf
